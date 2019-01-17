@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="IMAGES/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="acm.jar"/>
+	<classpathentry kind="lib" path="D:/webcam-capture-0.3.12-dist/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="D:/slf4j-api-1.7.5.jar/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jgoodies.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/acm.jar"/>
+	<classpathentry kind="lib" path="C:/jgoodies.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jcalendar-1.4.jar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/acm.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/acm_2.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/acm_3.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/jgoodies.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/rs2xml.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="F:/exe/bin/New folder/lib/ext/zipfs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
